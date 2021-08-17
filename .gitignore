@@ -247,3 +247,5 @@ ModelManifest.xml
 
 #golang
 *.exe
+
+.vscode
